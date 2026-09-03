@@ -1,0 +1,17 @@
+{
+  "extraKnownMarketplaces": {
+    "skills": {
+      "source": {
+        "source": "github",
+        "repo": "jmpalac/skills"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "document-skills@skills": true,
+    "example-skills@skills": true,
+    "claude-api@skills": true,
+    "academy-guide@skills": true,
+    "discernment-nudge@skills": true
+  }
+}
